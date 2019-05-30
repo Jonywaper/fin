@@ -1,0 +1,15 @@
+.bodys{
+    background: url(fondo.jpg);
+    background-repeat: no-repeat;
+    align-content: center;
+    align-items: center;
+}
+.resultado{
+    border: 3px solid;
+}
+.pepito{
+    background-color: rgba(65, 255, 255, 0.315);
+    position: fixed;
+    border-radius: 10px;
+    padding: 4px;
+}
